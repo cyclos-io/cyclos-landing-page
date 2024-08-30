@@ -1,3 +1,7 @@
+# Dynadot notice
+
+Hello Dynadot team, the domain http://cyclos.io/ has been squatted and leads to a scam. We've put this message on our repository to prove that we're the original developers of the website. We kindly request you to take it down and allow us to get the domain back.
+
 # Cyclos Protocol
 
 Concentrated liquidity market maker on Solana. Powered by Serum orderbooks.
